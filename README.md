@@ -128,8 +128,9 @@ To reduce database load and improve response time by implementing a **Side Cache
 * OS: Amazon Linux 2023
 * Placed in Public Subnet
 * Installed:
-  
-<img width="1224" height="265" alt="Screenshot 2026-03-28 130106" src="https://github.com/user-attachments/assets/f23c88cb-aabc-4382-b077-66d546b56eb5" />
+
+  <img width="1223" height="265" alt="Screenshot 2026-03-28 130133" src="https://github.com/user-attachments/assets/ebcb3269-975e-4c6a-b6fb-c17bc1ef2c64" />
+
 
 
 ```
