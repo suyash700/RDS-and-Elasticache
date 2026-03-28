@@ -129,7 +129,8 @@ To reduce database load and improve response time by implementing a **Side Cache
 * Placed in Public Subnet
 * Installed:
 
-  <img width="1223" height="265" alt="Screenshot 2026-03-28 130133" src="https://github.com/user-attachments/assets/ebcb3269-975e-4c6a-b6fb-c17bc1ef2c64" />
+  <img width="1223" height="265" alt="2" src="https://github.com/user-attachments/assets/3a172576-4b54-4ed3-bd30-3ff11562082d" />
+
 
 
 
